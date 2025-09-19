@@ -1,3 +1,3 @@
 Run project: 
-conda active dp
+conda active dp*
 streamlit run myapp.py
